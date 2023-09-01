@@ -58,10 +58,10 @@ The [Community Guidelines](community.md) are a set of recommended best practices
 [community.md](community.md)
 {% endcontent-ref %}
 
-## [Code of Conduct](conduct.md)
+## [Code of Conduct](broken-reference)
 
-The[ Code of Conduct](conduct.md) is a set of rules and expectations to which all DAO members agree.
+The[ Code of Conduct](broken-reference) is a set of rules and expectations to which all DAO members agree.
 
-{% content-ref url="conduct.md" %}
-[conduct.md](conduct.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

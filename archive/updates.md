@@ -20,4 +20,4 @@ description: Archive of commits made to the AIFS DAO State Repository
 
 ### State Change Registry <a href="#registry" id="registry"></a>
 
-<table><thead><tr><th>Date</th><th data-type="select">Category</th><th align="center">Description</th><th data-type="content-ref">Related Proposal</th></tr></thead><tbody><tr><td>3/28/23</td><td></td><td align="center">Initial Commit Prep</td><td><a href="proposals/epoch-2/aifsip-01.md">aifsip-01.md</a></td></tr></tbody></table>
+<table><thead><tr><th width="110.33333333333331">Date</th><th width="113" data-type="select">Category</th><th width="300" align="center">Description</th><th data-type="content-ref">Related Proposal</th></tr></thead><tbody><tr><td>3/28/23</td><td></td><td align="center">Initial Commit Prep</td><td><a href="proposals/epoch-2/aifsip-01.md">aifsip-01.md</a></td></tr></tbody></table>

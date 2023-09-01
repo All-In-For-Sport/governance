@@ -12,18 +12,7 @@ This template can be used to quickly create archive pages for proposals submitte
 
 Copy the following fields from the proposal content and/or voting platform data to populate the archive page.
 
-| Element          |       Placeholder |                     Description                    |
-| ---------------- | ----------------: | :------------------------------------------------: |
-| Title            |   `proposalTitle` | The title of the proposal (including # + Standard) |
-| Description      |     `description` |       Sentence-length summary of the proposal      |
-| Author(s)        |  `proposalAuthor` |            The author(s) of the document           |
-| Discussion       |   `discussionUrl` |      Link to the discussion forum or workspace     |
-| Voting Page      |         `voteUrl` |           Link to the voting platform URL          |
-| Publish Date     |         `pubDate` |     Date of proposal submission to voting space    |
-| Proposal Content | `proposalContent` |            The body text of the document           |
-| Votes            |       `voteTally` |     The number of votes per result (% or count)    |
-| Vote Result      |      `voteResult` |      The result of the vote (Passed or Failed)     |
-| State Changes    |     `stateChange` |    DAO State changes resulting from the proposal   |
+<table><thead><tr><th width="162">Element</th><th width="187" align="center">Placeholder</th><th align="right">Description</th></tr></thead><tbody><tr><td>Title</td><td align="center"><code>proposalTitle</code></td><td align="right">The title of the proposal (including # + Standard)</td></tr><tr><td>Description</td><td align="center"><code>description</code></td><td align="right">Sentence-length summary of the proposal</td></tr><tr><td>Author(s)</td><td align="center"><code>proposalAuthor</code></td><td align="right">The author(s) of the document</td></tr><tr><td>Discussion</td><td align="center"><code>discussionUrl</code></td><td align="right">Link to the discussion forum or workspace</td></tr><tr><td>Voting Page</td><td align="center"><code>voteUrl</code></td><td align="right">Link to the voting platform URL</td></tr><tr><td>Publish Date</td><td align="center"><code>pubDate</code></td><td align="right">Date of proposal submission to voting space</td></tr><tr><td>Proposal Content</td><td align="center"><code>proposalContent</code></td><td align="right">The body text of the document</td></tr><tr><td>Votes</td><td align="center"><code>voteTally</code></td><td align="right">The number of votes per result (% or count)</td></tr><tr><td>Vote Result</td><td align="center"><code>voteResult</code></td><td align="right">The result of the vote (Passed or Failed)</td></tr><tr><td>State Changes</td><td align="center"><code>stateChange</code></td><td align="right">DAO State changes resulting from the proposal</td></tr></tbody></table>
 
 ### Field Definitions
 
