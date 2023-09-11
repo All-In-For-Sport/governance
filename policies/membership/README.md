@@ -50,12 +50,12 @@ All In For Sport uses the [Trustless Unincorporated Nonprofit Agreement](https:/
 [operating-agreement.md](operating-agreement.md)
 {% endcontent-ref %}
 
-## [Community Guidelines](community.md)
+## [Community Guidelines](broken-reference)
 
-The [Community Guidelines](community.md) are a set of recommended best practices which all DAO members are encouraged to follow.&#x20;
+The [Community Guidelines](broken-reference) are a set of recommended best practices which all DAO members are encouraged to follow.&#x20;
 
-{% content-ref url="community.md" %}
-[community.md](community.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## [Code of Conduct](broken-reference)
