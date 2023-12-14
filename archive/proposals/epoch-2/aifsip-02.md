@@ -102,3 +102,12 @@ This code of conduct documentation draws from the inspiration of Annalee Flower 
 **Result:**  Passed
 
 ## 🏗️ Governance State Changes
+
+Changes to the AIFS governance state were made as a result of this proposal and included in [Pull Request #1: AIFSIP-02: Membership Requirements and Participation Guidelines](https://github.com/All-In-For-Sport/governance/pull/1).
+
+- [Add AIFSIP-02 to the Proposal Archive](https://github.com/All-In-For-Sport/governance/pull/1/commits/18d15c2ac9953cf2b3c7d30ed5ceacad117231d9)
+- [Add Membership Requirements to Membership Agreements page](https://github.com/All-In-For-Sport/governance/pull/1/commits/63d68ad23e5f8051c9d5ee65428a80798511fe2f)
+- [Add Community Guidelines](https://github.com/All-In-For-Sport/governance/pull/1/commits/833d946bc21027ae50044d8dc6f7653525eada0b)
+- [Update Table of Contents](https://github.com/All-In-For-Sport/governance/pull/1/commits/857e6a01db20d48fb8971eb751d19ca515233327)
+
+[https://github.com/All-In-For-Sport/governance/pull/1](https://github.com/All-In-For-Sport/governance/pull/1)
