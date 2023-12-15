@@ -7,7 +7,7 @@ Proposal to establish requirements for membership and guidelines for participati
 *This proposal is an amendment to the [All In For Sport Membership Agreements](https://state.allinforsport.org/policies/membership)*.
 
 [🗣️ Discussion](https://discuss.allinforsport.org/discussion/14135-aifsip02-membership-requirements-and-participation-guidelines)  
-[🌡️⚡⛓️ Snapshot](https://snapshot.org/#/allinforsport.eth/proposal/0x8f6b32a309da19028568a03c69ba0ec34e511bcf20a65283ece6448d3bb1ec15)
+[⚡ Snapshot](https://snapshot.org/#/allinforsport.eth/proposal/0x8f6b32a309da19028568a03c69ba0ec34e511bcf20a65283ece6448d3bb1ec15)
 
 **Submitted:** Dec 7, 2023  
 **Result:** Passed ✅
@@ -98,8 +98,7 @@ This code of conduct documentation draws from the inspiration of Annalee Flower 
 
 ## 🗳️ Voting Result
 
-**Votes:**  voteTally  
-**Result:**  Passed
+**Votes:**  6 Yes; Passed  
 
 ## 🏗️ Governance State Changes
 
@@ -109,5 +108,8 @@ Changes to the AIFS governance state were made as a result of this proposal and 
 - [Add Membership Requirements to Membership Agreements page](https://github.com/All-In-For-Sport/governance/pull/1/commits/63d68ad23e5f8051c9d5ee65428a80798511fe2f)
 - [Add Community Guidelines](https://github.com/All-In-For-Sport/governance/pull/1/commits/833d946bc21027ae50044d8dc6f7653525eada0b)
 - [Update Table of Contents](https://github.com/All-In-For-Sport/governance/pull/1/commits/857e6a01db20d48fb8971eb751d19ca515233327)
+- [Add Commit Links](https://github.com/All-In-For-Sport/governance/pull/1/commits/e5abc4aba5eeef414c0163627631ee72546ff636)
+- [Prune content](https://github.com/All-In-For-Sport/governance/pull/1/commits/9cb230f364d089f0607ceffdad74bc555352f185) and [add commitment to accountability](https://github.com/All-In-For-Sport/governance/pull/1/commits/39849a2ff600c53ba145d7204034580e9bb28e64) (to credit MBaldwin)
+- Add vote outcome & PR links
 
 [https://github.com/All-In-For-Sport/governance/pull/1](https://github.com/All-In-For-Sport/governance/pull/1)
