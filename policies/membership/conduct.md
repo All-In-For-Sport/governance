@@ -2,7 +2,7 @@
 
 All In For Sport is dedicated to advancing empowerment and inclusion through sport. For us, this includes people and communities of every ethnicity, faith, religion, gender identity and expression, sexual orientation, mental health, neuro(a)typicality, physical appearance, age, disability, Indigenous status, and level of experience.
 
-AIFS members commit to fostering an encouraging, safe and community driven environment for all that is free from harassment and harm. The AIFS members will strive to uphold the values [INSERT link] and show up as their best selves and in the best interest of the mission and collective. This is not an exhaustive list of examples below but it is intended to outline the spirit of intention for a code of conduct for AIFS.
+AIFS members commit to fostering an encouraging, safe and community driven environment for all that is free from harassment and harm. The AIFS members will strive to uphold these values and show up as their best selves and in the best interest of the mission and collective. This is not an exhaustive list of examples below but it is intended to outline the spirit of intention for a code of conduct for AIFS.
 
 ## Examples of encouraged behavior by members
 
