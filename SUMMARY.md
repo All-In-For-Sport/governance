@@ -12,6 +12,8 @@
 
 * [🤝 Membership Agreements](policies/membership/README.md)
   * [Operating Agreement](policies/membership/operating-agreement.md)
+  * [Shared Values](policies/membership/values.md)
+  * [Commitment to Accountability](policies/membership/conduct.md)
 * [📃 Proposal Standards](policies/proposals/README.md)
   * [🏗 State Update Proposals](policies/proposals/metagovernance.md)
 * [🏛 Governance Policies](policies/governance/README.md)

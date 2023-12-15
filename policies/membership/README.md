@@ -10,7 +10,9 @@ Agreements may be updated by submitting a Governance State Update Proposal. Plea
 
 ### Membership Requirements
 
-_<mark style="color:green;">TBD by Community</mark>_
+- Members must be over the age of 18 years, and legally qualified to accept the Membership Agreements.
+- Prospective members must agree to all [membership agreements](/policies/membership/) to receive a membership badge.
+- Individuals who meet these requirements may join the DAO by requesting or claiming a member badge and holding it in their public Ethereum account.
 
 #### Non-Discrimination Policy
 
