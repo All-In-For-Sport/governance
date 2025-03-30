@@ -4,7 +4,7 @@ description: >-
   MIP standard by ananth.eth
 ---
 
-# 📃 Proposal Standards
+# Proposal Standards
 
 The AIFSIP (All In For Sport Improvement Proposal) standard governs the acceptable use and requirements for proposals made to AIFS governance.&#x20;
 

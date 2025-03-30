@@ -6,13 +6,13 @@ description: Current operating agreements between members of All In For Sport
 
 These agreements govern the terms of membership and participation for all members of the DAO.
 
-Agreements may be updated by submitting a Governance State Update Proposal. Please reach out to the [governance team](broken-reference) for assistance in creating your proposal.
+Agreements may be updated by submitting a Governance State Update Proposal. Please reach out to the [governance team](../../policies/membership/broken-reference/) for assistance in creating your proposal.
 
 ### Membership Requirements
 
-- Members must be over the age of 18 years, and legally qualified to accept the Membership Agreements.
-- Prospective members must agree to all [membership agreements](/policies/membership/) to receive a membership badge.
-- Individuals who meet these requirements may join the DAO by requesting or claiming a member badge and holding it in their public Ethereum account.
+* Members must be over the age of 18 years, and legally qualified to accept the Membership Agreements.
+* Prospective members must agree to all [membership agreements](./) to receive a membership badge.
+* Individuals who meet these requirements may join the DAO by requesting or claiming a member badge and holding it in their public Ethereum account.
 
 #### Non-Discrimination Policy
 
@@ -20,7 +20,7 @@ All In For Sport does not discriminate on the basis of race, nationality, religi
 
 ### Membership Tokens
 
-All In For Sport uses NFT membership badges to prove membership in the DAO and to provide governance rights to its members. These badges are _non-transferrable_ ERC-1155 tokens issued on Polygon Mainnet.&#x20;
+All In For Sport uses NFT membership badges to prove membership in the DAO and to provide governance rights to its members. These badges are _non-transferrable_ ERC-1155 tokens issued on Polygon Mainnet.
 
 * Membership Badge Contract: [0xeed76f3d0de104827357b37aa2f0ce3701e4ae28](https://polygonscan.com/address/0xeed76f3d0de104827357b37aa2f0ce3701e4ae28)
 
@@ -40,7 +40,7 @@ By requesting the revocation of your membership badge, you're agreeing to leave 
 
 ## [Operating Agreement](operating-agreement.md)
 
-All In For Sport uses the [Trustless Unincorporated Nonprofit Association Agreement ("TUNAA")](https://de.una.ricardian.eth.limo/) as its basis for self-governance, and to differentiate between DAO treasury holdings and the financial activities of its individual participants. By joining the DAO and/or holding its membership tokens ("badges"), you signal your consent to this agreement and any others defined within the ["Other Agreements"](./#other-agreements) section.&#x20;
+All In For Sport uses the [Trustless Unincorporated Nonprofit Association Agreement ("TUNAA")](https://de.una.ricardian.eth.limo/) as its basis for self-governance, and to differentiate between DAO treasury holdings and the financial activities of its individual participants. By joining the DAO and/or holding its membership tokens ("badges"), you signal your consent to this agreement and any others defined within the ["Other Agreements"](./#other-agreements) section.
 
 {% embed url="https://de.una.ricardian.eth.limo/" %}
 All In For Sport uses the [Trustless Unincorporated Nonprofit Agreement](https://de.una.ricardian.eth.limo/) by [KaliDAO](https://kalidao.xyz/)
@@ -52,18 +52,18 @@ All In For Sport uses the [Trustless Unincorporated Nonprofit Agreement](https:/
 [operating-agreement.md](operating-agreement.md)
 {% endcontent-ref %}
 
-## [Community Guidelines](broken-reference)
+## [Community Guidelines](../../policies/membership/broken-reference/)
 
-The [Community Guidelines](broken-reference) are a set of recommended best practices which all DAO members are encouraged to follow.&#x20;
+The [Community Guidelines](../../policies/membership/broken-reference/) are a set of recommended best practices which all DAO members are encouraged to follow.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../policies/membership/broken-reference/" %}
+[broken-reference](../../policies/membership/broken-reference/)
 {% endcontent-ref %}
 
-## [Code of Conduct](broken-reference)
+## [Code of Conduct](../../policies/membership/broken-reference/)
 
-The[ Code of Conduct](broken-reference) is a set of rules and expectations to which all DAO members agree.
+The[ Code of Conduct](../../policies/membership/broken-reference/) is a set of rules and expectations to which all DAO members agree.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../policies/membership/broken-reference/" %}
+[broken-reference](../../policies/membership/broken-reference/)
 {% endcontent-ref %}

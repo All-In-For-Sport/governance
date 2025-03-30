@@ -2,7 +2,7 @@
 description: Information related to the All In For Sport operating agreement.
 ---
 
-# Operating Agreement
+# UNA Operating Agreement
 
 ### Purpose
 
@@ -33,7 +33,7 @@ The Trustless UNA Agreement does not represent a business partnership, nor does 
 [Trustless Unincorporated Nonprofit Association Agreement (“TUNAA”)](https://de.una.ricardian.eth.limo/)
 {% endembed %}
 
-This operating agreement concerns only the DAO treasury as a siloed entity, independent from community or operational governance bodies or any agreements which govern them. The "TUNAA" is a static document which is recorded in the DAO treasury wallet as a [Ricardian NFT](https://docs.wrappr.wtf/get-started/what/). The agreement may only be altered or revoked via a [DAO state update proposal](../proposals/metagovernance.md) and with consent of the DAO Advisory Group (A.K.A. "Operational Governance" or "OpGov").
+This operating agreement concerns only the DAO treasury as a siloed entity, independent from community or operational governance bodies or any agreements which govern them. The "TUNAA" is a static document which is recorded in the DAO treasury wallet as a [Ricardian NFT](https://docs.wrappr.wtf/get-started/what/). The agreement may only be altered or revoked via a [DAO state update proposal](../../policies/governance/proposals/metagovernance.md) and with consent of the DAO Advisory Group (A.K.A. "Operational Governance" or "OpGov").
 
 **By ratifying this DAO state document and/or joining the DAO, consenting to the Trustless Unincorporated Nonprofit Association Agreement and its terms. You may dissociate yourself from this agreement by leaving the DAO.**
 
