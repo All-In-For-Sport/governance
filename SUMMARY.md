@@ -4,11 +4,11 @@
 * [Discussion Forum](https://discuss.allinforsport.org/)
 * [Voting Space](https://snapshot.org/#/allinforsport.eth)
 
-## Metagovernance <a href="#state" id="state"></a>
+## Metagovernance <a href="#governance" id="governance"></a>
 
-* [🗺️ DAO Overview](state/readme.md)
-* [Community Governance](state/community.md)
-* [Operational Governance](state/operations.md)
+* [🗺️ DAO Overview](governance/readme.md)
+* [Community Governance](governance/community.md)
+* [Operational Governance](governance/operations.md)
 
 ## Agreements
 

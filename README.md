@@ -10,7 +10,7 @@ The All In For Sport governance state repository is a resource for information r
 
 All In for Sport uses a decentralized organizational structure and an experimental, polycentric governance process designed to enable truly community-driven stewardship of the DAO's treasury while also providing high-context, agile governance of the DAO's operational functions.
 
-You can learn more about All In For Sport's governance process on the [Governance Overview](state/) page.  Governance principles and design notes can be found [here](https://app.clarity.so/allinforsport/docs/e5eb6015-e824-42a0-86d0-55293da514ab).
+You can learn more about All In For Sport's governance process on the [Governance Overview](governance/) page.  Governance principles and design notes can be found [here](https://app.clarity.so/allinforsport/docs/e5eb6015-e824-42a0-86d0-55293da514ab).
 
 ## Table of Contents
 
@@ -25,9 +25,9 @@ The "Metagovernance" category provides the foundational overview of AIFS's gover
 
 This section includes:
 
-* [DAO Overview](state/) - The fundamental structure and purpose of AIFS governance
-* [Community Governance](state/community.md) - The processes and frameworks for community-driven decision making
-* [Operational Governance](state/operations.md) - The framework for autonomous cells to execute DAO-aligned initiatives
+* [DAO Overview](governance/) - The fundamental structure and purpose of AIFS governance
+* [Community Governance](governance/community.md) - The processes and frameworks for community-driven decision making
+* [Operational Governance](governance/operations.md) - The framework for autonomous cells to execute DAO-aligned initiatives
 
 This section is updated by the Governance Cell when changes to the core governance model are approved through Community Governance.
 
