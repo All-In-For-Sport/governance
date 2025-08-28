@@ -36,6 +36,7 @@
 * [🗃️ Proposal Archive](archive/proposals/README.md)
   * [Epoch 1 Proposals](archive/proposals/epoch-2/README.md)
     * [AIFSIP-01: Adopt Initial Governance State](archive/proposals/epoch-2/aifsip-01.md)
+    * [AIFSIP-02: Membership Requirements and Participation Guidelines](archive/proposals/epoch-2/aifsip-02-membership-requirements-and-participation-guidelines.md)
     * [AIFSIP-04: Establish Operational Governance Domain](archive/proposals/epoch-2/aifsip-04-establish-operational-governance-domain.md)
   * [Epoch 0 Proposals](archive/proposals/epoch-0/README.md)
     * [Proposal 01: Setup a Governance Team](archive/proposals/epoch-0/proposal-01.md)
