@@ -25,8 +25,9 @@ The "Metagovernance" category provides the foundational overview of AIFS's gover
 
 This section includes:
 
-* DAO Overview - The fundamental structure and purpose of AIFS governance
-* Community Governance - The processes and frameworks for community-driven decision making
+* [DAO Overview](state/) - The fundamental structure and purpose of AIFS governance
+* [Community Governance](state/community.md) - The processes and frameworks for community-driven decision making
+* [Operational Governance](state/operations.md) - The framework for autonomous cells to execute DAO-aligned initiatives
 
 This section is updated by the Governance Cell when changes to the core governance model are approved through Community Governance.
 

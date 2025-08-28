@@ -2,7 +2,7 @@
 description: '"An index of all agreements across AIFS''s multicameral governance domains."'
 ---
 
-# Agreement Registry
+# 🤝 Agreement Registry
 
 This registry contains all active agreements that govern participation in All In For Sport DAO. Different agreements may apply to different roles and contexts within the DAO, with membership agreements being the baseline for all members.
 

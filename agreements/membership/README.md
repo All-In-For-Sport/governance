@@ -2,7 +2,7 @@
 description: Current operating agreements between members of All In For Sport
 ---
 
-# 🤝 Membership Agreements
+# Membership Agreements
 
 These agreements govern the terms of membership and participation for all members of the DAO.
 

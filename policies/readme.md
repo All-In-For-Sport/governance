@@ -4,7 +4,7 @@ description: >-
   domains.
 ---
 
-# Policy Registry
+# ☑️ Policy Registry
 
 The Policy Registry serves as the central index for all governance standards and operational procedures across All In For Sport's domains. Created by Community Governance and maintained by delegated entities, these policies provide transparency into decision-making processes, establish accountability frameworks, and ensure consistent application of rules.&#x20;
 

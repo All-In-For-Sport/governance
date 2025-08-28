@@ -8,30 +8,35 @@
 
 * [🗺️ DAO Overview](state/readme.md)
 * [Community Governance](state/community.md)
+* [Operational Governance](state/operations.md)
 
 ## Agreements
 
-* [Agreement Registry](agreements/readme.md)
-* [🤝 Membership Agreements](agreements/membership/README.md)
-  * [Shared Values](agreements/membership/values.md)
+* [🤝 Agreement Registry](agreements/readme.md)
+* [Shared Values](agreements/values.md)
+* [Membership Agreements](agreements/membership/README.md)
   * [Commitment to Accountability](agreements/membership/conduct.md)
   * [UNA Operating Agreement](agreements/membership/operating-agreement.md)
 
 ## Policies
 
-* [Policy Registry](policies/readme.md)
-* [🏛️ Governance Policies](policies/governance/README.md)
+* [☑️ Policy Registry](policies/readme.md)
+* [Governance Policies](policies/governance/README.md)
   * [Voting Policies](policies/governance/voting.md)
   * [Proposal Standards](policies/governance/proposals/README.md)
     * [🏗️ State Update Proposals](policies/governance/proposals/metagovernance.md)
   * [State Update Policy](policies/governance/state/README.md)
     * [Proposal Archive Page Template](policies/governance/state/proposal-archive-template.md)
+* [Operational Policies](policies/operational/README.md)
+  * [Cell Coordination Rules](policies/operational/cell-coordination-rules.md)
+  * [Operational Treasury Policies](policies/operational/operational-treasury-policies.md)
 
 ## Archives <a href="#archive" id="archive"></a>
 
 * [🗃️ Proposal Archive](archive/proposals/README.md)
   * [Epoch 1 Proposals](archive/proposals/epoch-2/README.md)
     * [AIFSIP-01: Adopt Initial Governance State](archive/proposals/epoch-2/aifsip-01.md)
+    * [AIFSIP-04: Establish Operational Governance Domain](archive/proposals/epoch-2/aifsip-04-establish-operational-governance-domain.md)
   * [Epoch 0 Proposals](archive/proposals/epoch-0/README.md)
     * [Proposal 01: Setup a Governance Team](archive/proposals/epoch-0/proposal-01.md)
     * [Proposal 02: Set up a Partnerships Team](archive/proposals/epoch-0/proposal-02.md)
