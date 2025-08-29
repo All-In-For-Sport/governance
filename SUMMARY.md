@@ -8,7 +8,9 @@
 
 * [🗺️ DAO Overview](governance/readme.md)
 * [Community Governance](governance/community.md)
-* [Operational Governance](governance/operations.md)
+* [Operational Governance](governance/operations/README.md)
+  * [Operational Cells](governance/operations/cells/README.md)
+    * [Unlocking Capital & Tech for Grassroots Sport Cell State](governance/operations/cells/tech-365-sarreya.md)
 
 ## Agreements
 
