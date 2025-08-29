@@ -10,7 +10,7 @@
 * [Community Governance](governance/community.md)
 * [Operational Governance](governance/operations/README.md)
   * [Operational Cells](governance/operations/cells/README.md)
-    * [Cell State - Unlocking Capital & Tech for Grassroots Sport](governance/operations/cells/tech-365-sarreya.md)
+    * [Unlocking Capital & Tech for Grassroots Sport](governance/operations/cells/tech-365-sarreya.md)
 
 ## Agreements
 
