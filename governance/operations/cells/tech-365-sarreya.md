@@ -1,4 +1,4 @@
-# Unlocking Capital & Tech for Grassroots Sport Cell State
+# Unlocking Capital & Tech for Grassroots Sport
 
 **Group Name:**
 
@@ -26,13 +26,6 @@
 * Test whether blockchain/cryptocurrency tools can provide alternative funding pathways
 * Develop and test collaborative governance structures that center community voice
 
-**Genesis of the Group**
-
-* Emerged from previous collaborative governance work (Reimagining Power Project)
-* Funded by Women Win as part of a broader learning cohort
-* Built on existing relationships between partner organizations
-* Connected to parallel work happening in Brazil with similar governance approaches
-
 **Goals**
 
 * Set up digital wallets and test cryptocurrency fundraising capabilities
@@ -45,7 +38,7 @@
 **Design/intentions**
 
 * Shared decision-making and budgeting among equal partners
-* Two-tier governance structure balancing oversight with operational flexibility
+* Two-mode governance structure balancing oversight with operational flexibility
 * Community-centered approach with capacity building components
 * Documentation and learning focus to benefit broader movement
 
